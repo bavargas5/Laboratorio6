@@ -18,11 +18,11 @@
 
 **MATERIALES**
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/1.png)
 
 **CIRCUITO ANALIZADO**
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/2.png)
 
 **PROCEDIMIENTO**
 
@@ -30,43 +30,63 @@
 
 RL = 220 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/3.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/4.png)
 
 RL = 470 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/5.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/6.png)
 
 RL = 680 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/7.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/8.png)
 
 RL = 820 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/9.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/10.png)
 
 RL = 1000 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/11.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/12.png)
 
 RL = 1500 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/13.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/14.png)
 
 RL = 1800 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/15.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/16.png)
 
 RL = 2200 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/17.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/18.png)
 
 RL = 3900 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/19.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/20.png)
 
 RL = 4700 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/21.png)
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/22.png)
 
 **SIMULACIÓN EN DCACLAB**
 
@@ -74,43 +94,43 @@ RL = 4700 Ω
 
 RL = 220 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/23.png)
 
 RL = 470 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/24.png)
 
 RL = 680 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/25.png)
 
 RL = 820 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/26.png)
 
 RL = 1000 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/27.png)
 
 RL = 1500 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/28.png)
 
 RL = 1800 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/29.png)
 
 RL = 2200 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/30.png)
 
 RL = 3900 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/31.png)
 
 RL = 4700 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/32.png)
 
 **Mida la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.**
 
