@@ -130,7 +130,7 @@ RL = 3900 Ω
 
 RL = 4700 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/32.png)
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/32.png) 
 
 **Mida la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.**
 
