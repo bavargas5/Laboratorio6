@@ -156,18 +156,18 @@ RL = 4700 Ω
 
 **RECOPILACIÓN DE DATOS**
 
-| RL(Ω) | CORRIENTE MEDIDA (mA) | VOLTAJE MEDIDO (V) | POTENCIA CALCULADA EXPERIMENTALMENTE (W) | POTENCIA CALCULADA TEORICAMENTE (W) |
+| RL(Ω)  | CORRIENTE MEDIDA (mA) | VOLTAJE MEDIDO (V) | POTENCIA CALCULADA EXPERIMENTALMENTE (W) | POTENCIA CALCULADA TEORICAMENTE (W) |
 | ------------- | ------------- | ------------- | ------------- |------------- |
 | 220 Ω |  |  | | 0.02453 W ≈ 24.53 mW|
 | 470 Ω |  |  | | 0.0379 W ≈ 37.9 mW|
 | 680 Ω |  |  | | 0.0433 W ≈ 43.3 mW|
 | 820 Ω |  |  | | 0.04514 W ≈ 45.14 mW|
-| 1000 Ω |  |  | | 0.04638 W ≈ 46.38 mW|
-| 1500 Ω |  |  | | 0.04637 W ≈ 46.37 mW|
-| 1800 Ω |  |  | | 0.045 W ≈ 45 mW|
-| 2200 Ω |  |  | | 0.04279 W ≈ 42.79 mW|
-| 3900 Ω |  |  | | 0.03371 W ≈ 33.71 mW|
-| 4700 Ω |  |  | | 0.03032 W ≈ 30.32 mW|
+| 1000 Ω  |  |  | | 0.04638 W ≈ 46.38 mW|
+| 1500 Ω  |  |  | | 0.04637 W ≈ 46.37 mW|
+| 1800 Ω  |  |  | | 0.045 W ≈ 45 mW|
+| 2200 Ω  |  |  | | 0.04279 W ≈ 42.79 mW|
+| 3900 Ω  |  |  | | 0.03371 W ≈ 33.71 mW|
+| 4700 Ω  |  |  | | 0.03032 W ≈ 30.32 mW|
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
