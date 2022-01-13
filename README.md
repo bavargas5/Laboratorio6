@@ -114,23 +114,19 @@ RL = 1000 Ω
 
 RL = 1500 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/28.png)
 
 RL = 1800 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/29.png)
 
 RL = 2200 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/30.png)
 
 RL = 3900 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/31.png)
 
 RL = 4700 Ω
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/32.png)
+
 
 **Mida la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.**
 
