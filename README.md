@@ -20,7 +20,7 @@
 
 
 
-**Circuito analizado**
+**CIRCUITO ANALIZADO**
 
 
 
