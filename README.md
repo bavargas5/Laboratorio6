@@ -62,7 +62,7 @@ RL = 1500 Ω
 
 ![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/13.png)
 
-![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/14.png) 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMGBV/14q.png) 
 
 RL = 1800 Ω
 
