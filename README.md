@@ -16,7 +16,7 @@ Demostrar el Teorema de la Máxima Transferencia de Potencia, por medio del cál
 
 # 2. MARCO TEÓRICO
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20E/Teorema%20de%20Potencia.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
