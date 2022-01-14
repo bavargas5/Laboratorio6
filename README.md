@@ -4,11 +4,15 @@
 
 **General**
 
-
+Demostrar el Teorema de la Máxima Transferencia de Potencia, por medio del cálculo de la potencia consumida en un circuito, para analizar los datos obtenidos y obtener conclusiones.
 
 **Específicos**
 
+-	Calcular la potencia consumida para cada valor de resistencia.4
 
+-	Comparar los valores de la potencia calculados.
+
+-	Interpretar los datos obtenidos en el simulador virtual.
 
 # 2. MARCO TEÓRICO
 
@@ -220,7 +224,12 @@ En este caso la resistencia que mas se acerca es la  de 1k Ω, en cambio la de 1
 
 # 6. CONCLUSIONES
 
+-	En conclusión, el Teorema de la Máxima Transferencia de Potencia es observado en la práctica, ya que mientras la RL se acerque más al valor de 1.2k Ohms la potencia que consume RL será mayor, a diferencia cuando RL es mayor o menor a 1.2k Ohms.
 
+-	Es importante calcular la corriente que circula por el circuito, debido a que es necesario para obtener la potencia consumida por RL.
+
+-	La mayoría de los valores de potencia obtenidos en el simulador son muy cercanos a los calculados, sin embargo, algunos cálculos son muy distintos, cuando RL tiene un valor de 2.2k Ohms la potencia que consume es de 47 mW, cuando lo calculado fue 43 mW, esto pasa debido a que se utilizó resistencias con una tolerancia del 5% para que los valores están lo mas cercanos a la realidad, ya que las resistencias que mas se comercializan tiene una tolerancia de 5%.
 
 # 7. BIBLIOGRAFÍA
+
 
