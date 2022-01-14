@@ -243,3 +243,10 @@ https://youtu.be/vNFm9eFbVzU
 # 7. BIBLIOGRAFÍA
 
 - Charles k. Alexander. (2006-2013). Universidad Iberoamericana. Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Ciudad de México. Fundamentos de Circuitos Eléctricos, 5ta Edición. Recuperado de: https://www.academia.edu/42982912/_1_Fundamentos_de_circuitos_el%C3%A9ctricos_5ta_Edici%C3%B3n_sadiku?email_work_card=view-paper
+
+- Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+
+- Roy, S. (2021, 13 mayo). Maximum Power Transfer Theorem. Lambda Geeks. Recuperado 14 de enero de 2022, de https://es.lambdageeks.com/maximum-power-transfer-theorem/
+
+- Teorema de transferencia de potencia máxima. (2021, 5 agosto). La fisica y quimica. Recuperado 14 de enero de 2022, de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
