@@ -222,11 +222,11 @@ En este caso la resistencia que mas se acerca es la  de 1k Ω, en cambio la de 1
 
 Formula de Porcentaje de Error
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20E/L_F.JPG)
 
 Tabla de Porcentajes de Error
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20E/L_C.JPG)
 
 # 5. VIDEO
 
