@@ -218,6 +218,16 @@ resistencia de la carga es igual a la resistencia interna de la fuente.
 
 En este caso la resistencia que mas se acerca es la  de 1k Ω, en cambio la de 1.5K Ω ya sobre paso la transferencia de potencial por lo cual tiene una potencia menor
 
+**CALCULO DE ERROR**
+
+Formula de Porcentaje de Error
+
+
+
+Tabla de Porcentajes de Error
+
+
+
 # 5. VIDEO
 
 
