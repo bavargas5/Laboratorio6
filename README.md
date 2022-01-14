@@ -136,41 +136,44 @@ RL = 4700 Ω
 
 RL = 220 Ω
 
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/1.PNG) 
 
 
 RL = 470 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/2.PNG) 
 
 RL = 680 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/3.PNG) 
 
 RL = 820 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/4.PNG) 
 
 RL = 1000 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/6.PNG) 
 
 RL = 1500 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/7.PNG) 
 
 RL = 1800 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/8.PNG) 
 
 RL = 2200 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/9.PNG) 
 
 RL = 3900 Ω
 
-
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/10.PNG) 
 
 RL = 4700 Ω
+
+![](https://github.com/bavargas5/Laboratorio6/blob/main/IMG%20BN/11.PNG) 
 
 
 
@@ -195,13 +198,21 @@ RL = 4700 Ω
 
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
+No se cumple del todo por que para "El TEOREMA DE TRANSFERENCIA MÁXIMA DE POTENCIA" necesitamos una resistencia RL igual a la resistencia RS y en este caso no exixtia pero hubo una resistencia que se acerco de valor R=1K Ω
 
-¿Cuál fue la potencia máxima en RL? __________________Watts
+¿Cuál fue la potencia máxima en RL? _________𝟒𝟔.𝟑𝟖 𝒎𝑾_________Watts
+
+El valor de la potencia que mas se acerco es de 𝟒𝟔.𝟑𝟖 𝒎𝑾 con la R=1K Ω
 
 
-¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+¿Para qué valor de RL se obtiene la MTP? _____1K Ω__________ Ω
 
+  Segun "El TEOREMA DE TRANSFERENCIA MÁXIMA DE POTENCIA" nos dice que:
 
+Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la
+resistencia de la carga es igual a la resistencia interna de la fuente.
+
+En este caso la resistencia que mas se acerca es la  de 1k Ω, en cambio la de 1.5K Ω ya sobre paso la transferencia de potencial por lo cual tiene una potencia menor
 
 # 5. VIDEO
 
