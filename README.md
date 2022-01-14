@@ -202,7 +202,7 @@ RL = 4700 Ω
 
 **¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-No se cumple del todo por que para "El TEOREMA DE TRANSFERENCIA MÁXIMA DE POTENCIA" necesitamos una resistencia RL igual a la resistencia RS y en este caso no exixtia pero hubo una resistencia que se acerco de valor R=1K Ω
+No se cumple del todo por que para "El TEOREMA DE TRANSFERENCIA MÁXIMA DE POTENCIA" necesitamos una resistencia RL igual a la resistencia RS y en este caso no existía pero hubo una resistencia que se acerco de valor R=1K Ω
 
 ¿Cuál fue la potencia máxima en RL? _________𝟒𝟔.𝟑𝟖 𝒎𝑾_________Watts
 
