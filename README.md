@@ -230,7 +230,7 @@ Tabla de Porcentajes de Error
 
 # 5. VIDEO
 
-
+https://youtu.be/vNFm9eFbVzU
 
 # 6. CONCLUSIONES
 
